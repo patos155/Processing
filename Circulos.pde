@@ -1,5 +1,5 @@
-//Ejemplo tomado del vanal de YouTube de @shiffman
-//Usado para la explicación de 
+//Ejemplo tomado del canal de YouTube de @shiffman
+//Usado para la explicación de la estructura en Processing
 
 int [] nums = {30, 40, 80, 50};
 
